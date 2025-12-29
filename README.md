@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Tram
 
 <!--
 **nmhongtram/nmhongtram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Data Science, AI and MLOps
+- 👯 I’m looking to collaborate on AI research projects
