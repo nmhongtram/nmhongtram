@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Tram
 
+- 🎓 Data Science major
 - 🌱 I’m currently learning Data Science, AI and MLOps
 - 👯 I’m looking to collaborate on AI research projects
 
