@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tram
 
-Recent Data Science graduate | AI Engineer Intern  
+Recent Data Science graduate | AI Researcher | AI Engineer 
 
 I’m passionate about building AI systems, especially in **multimodal learning** and **computer vision**, with hands-on experience in real-time inference and web deployment. I enjoy developing **end-to-end machine learning pipelines** and optimizing models for real-world applications.
 
