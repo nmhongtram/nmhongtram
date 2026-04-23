@@ -1,22 +1,12 @@
 ## Hi there 👋 I'm Tram
 
-- 🎓 Data Science major
-- 🌱 I’m currently learning Data Science, AI and MLOps
-- 👯 I’m looking to collaborate on AI research projects
+Recent Data Science graduate | AI Engineer Intern  
 
-<!--
-**nmhongtram/nmhongtram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about building AI systems, especially in **multimodal learning** and **computer vision**, with hands-on experience in real-time inference and web deployment. I enjoy developing **end-to-end machine learning pipelines** and optimizing models for real-world applications.
 
-Here are some ideas to get you started:
+🔍 My current interests focus on:
+- Generative AI
+- AI Agents
+- Applied AI systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+🌱 I aim to leverage AI to create **meaningful social impact** in areas such as healthcare, education, environmental sustainability, and digital transformation — with a strong commitment to **responsible and ethical AI**.
